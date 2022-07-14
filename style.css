@@ -1,0 +1,140 @@
+*{
+    background-color: #181818;
+    color: #FFFF
+
+}
+
+#headertitle{
+    color: #f96816;
+    position: relative;
+    bottom: 120px;
+    font-size: 4rem;
+    left: 280px;
+    
+}
+
+.buttons{
+ position: relative;
+ left: 775px;
+ bottom: 250px;
+
+}
+
+#logo{
+position: relative;
+    top: 45px;
+    left: 35px;
+}
+
+
+#button1{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 2.7rem;
+    height: fit-content;
+    width: fit-content;
+    cursor: pointer;
+    border: 3px solid #f4f4f4;
+    color: #f4f4f4;
+    padding: 1%;
+    margin: 5px;
+    border-radius: 6px;
+    text-shadow: 0 0 0.6em currentColor;
+    
+
+}
+
+#button1:hover{
+    text-shadow: 0 0 0.6em #dfe959;
+
+}
+
+#button2{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 2.7rem;
+    height: fit-content;
+    width: fit-content;
+    cursor: pointer;
+    border: 3px solid #f4f4f4;
+    color: #f4f4f4;
+    padding: 1%;
+    margin: 5px;
+    border-radius: 6px;
+    text-shadow: 0 0 0.6em currentColor;
+    
+
+}
+
+#button2:hover{
+    text-shadow: 0 0 0.6em #dfe959;
+
+}
+
+
+#button3{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 2.7rem;
+    height: fit-content;
+    width: fit-content;
+    cursor: pointer;
+    border: 3px solid #f4f4f4;
+    color: #f4f4f4;
+    padding: 1%;
+    margin: 5px;
+    border-radius: 6px;
+    text-shadow: 0 0 0.6em currentColor;
+    
+
+}
+
+#button3:hover{
+    text-shadow: 0 0 0.6em #dfe959;
+
+}
+
+
+#Menu {
+    position: relative;
+    left: 72rem;
+    font-size: 4rem;
+    border: #f96816 5px solid;
+    width: fit-content;
+
+}
+
+#images{
+    position: relative;
+    left: 72rem;
+}
+
+
+#kofta{
+    position: relative;
+    left: 64.25rem;
+}
+
+#order{
+    padding: 0.8rem 2.2rem;
+    height: 2.7rem;
+    display: block;
+    border: 0ch;
+    border-radius: 4px;
+    font-weight: 500;
+    background-color: #f96816;
+    color: #FFFF;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    transition: all 1s;
+    position: relative;
+    left: 85rem;
+    
+    
+
+}
+
+#order:hover{
+    background-color: #fca275;
+}
